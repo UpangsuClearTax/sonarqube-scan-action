@@ -1,4 +1,4 @@
-FROM sonarsource/sonar-scanner-cli:4.7
+FROM 219341907983.dkr.ecr.ap-south-1.amazonaws.com/sonarqube-cleartax:4.7
 
 LABEL version="1.1.0" \
       repository="https://github.com/sonarsource/sonarqube-scan-action" \
